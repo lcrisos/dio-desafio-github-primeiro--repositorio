@@ -1,0 +1,23 @@
+Blob < Tree < Commit
+
+chave SSH
+mv - move arquivos | mv <arquivo> ./<pasta>
+ls - lista arquivos
+pwd - mostra caminho completo
+cd - muda diretório
+mkdir -  cria diretório
+ls -a - lista arquivos ocultos
+cd .. - volta nivel
+
+git config
+git add
+git add *
+git init
+git status
+git commit -m "observação/descrição"
+git remote add origin
+git remote -v
+git push 
+git push origin master
+git pull 
+git pull origin master
