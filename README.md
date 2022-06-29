@@ -1,6 +1,6 @@
 #  Anotações de Aulas DIO Dev Mobile Santander :heart: 
 
-Repositório Criado para Desafio de projeto sobre Git/GitHub 
+Meu Primeiro Repositório - Repositório Criado para Curso DEV Mobile Santander DIO
 
 _*Em constante atualização até o final do curso_*
 
