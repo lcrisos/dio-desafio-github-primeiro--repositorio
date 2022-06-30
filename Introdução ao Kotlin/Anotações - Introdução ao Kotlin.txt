@@ -1,1 +1,61 @@
 Anotações Gerais:
+- linguagem oficial android 
+- null check 
+- type safe
+- 100% interoperável com Java
+- Desenvolve frontend e backend com Kotlin/Js e multiplataformas com KMM
+
+
+Tipos Básicos de dados:
+Int
+Long
+Flot
+Double
+Array
+Boolean
+Char
+Byte
+Short
+Null!
+
+
+println(Int.MAX_VALUE)
+println(Double.MAX_VALUE)
+println(Float.MAX_VALUE)
+println(Byte.MAX_VALUE)
+
+
+ex. Conversão 
+toByte()
+toShort()
+toInt()
+toLong()
+toFloat()
+toDouble()
+toChar()
+
+Declaração de Variável
+var (valor mutável, camelCase)
+val (constante, valor imutável, camelCase)
+cont val (valor imutável cujo o valor é atribuido durante a compilação, SNAKE_CASE)
+
+var = camelCase - valor defino e alterado durante a execução
+val = camelCase = valor definido durante a execução e não é modificadop
+const val = SNAKE_CASE = valor definido durante a compilação
+
+
+
+EX:
+var idadeAtual = 22
+
+var idadeAtuaL:Int?
+idadeAtual = null ou 22
+
+val idadeAtual = 22
+
+val idadeAtuaL:Int?
+idadeAtual = null ou 22
+
+const val MIN_AGE = 15
+conSt val MAX_ABE = 68
+
